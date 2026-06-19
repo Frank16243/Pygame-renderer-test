@@ -10,7 +10,7 @@ Simple Pygame diagnostic tool for testing rendering, input handling, and SDL fun
 
 Clone the repository:
 
-git clone https://github.com/USERNAME/pygame-render-test.git
+git clone https://github.com/Frank16243/Pygame-render-test.git
 
 Install dependencies:
 
